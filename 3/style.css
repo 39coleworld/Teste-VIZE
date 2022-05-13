@@ -1,0 +1,32 @@
+/*CONFIGURAÇÕES GERAIS*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+}
+
+.name {
+    /* position: absolute; */
+    height: 40px;
+    /* left: 0px;
+    right: 2px;
+    top: 0px; */
+
+    /* M3/sys/light/primary-container */
+
+    background: #CCE5FF;
+}
+
+.id {
+    /* position: absolute; */
+    height: 40px;
+    /* left: 0px;
+        right: 2px;
+        top: 0px; */
+
+    /* M3/sys/light/primary-container */
+
+    background: #CCE5FF;
+}
